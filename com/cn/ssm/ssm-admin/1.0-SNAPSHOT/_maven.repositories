@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Dec 16 11:08:59 CST 2017
+ssm-admin-1.0-SNAPSHOT.pom>=
+ssm-admin-1.0-SNAPSHOT.war>=
+ssm-admin-1.0-SNAPSHOT.jar>=

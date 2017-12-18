@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 16:42:06 CST 2017
+dubbo-admin-2.5.8.pom>=
+dubbo-admin-2.5.8.war>=
+dubbo-admin-2.5.8-sources.jar>=

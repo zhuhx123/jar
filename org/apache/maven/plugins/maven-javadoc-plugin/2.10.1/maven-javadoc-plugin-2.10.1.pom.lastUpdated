@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 11 09:44:21 CST 2017
+default-http\://nexus.ivymei.com/nexus/content/groups/public/.lastUpdated=1502415861476
+http\://nexus.ivymei.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-javadoc-plugin\:pom\:2.10.1 from/to central (http\://nexus.ivymei.com/nexus/content/groups/public/)\: Failed to transfer file\: http\://nexus.ivymei.com/nexus/content/groups/public/org/apache/maven/plugins/maven-javadoc-plugin/2.10.1/maven-javadoc-plugin-2.10.1.pom. Return code is\: 502 , ReasonPhrase\:Bad Gateway.

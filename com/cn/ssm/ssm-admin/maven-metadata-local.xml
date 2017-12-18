@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cn.ssm</groupId>
+  <artifactId>ssm-admin</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171216030859</lastUpdated>
+  </versioning>
+</metadata>
